@@ -1,0 +1,37 @@
+### Intellij
+**/.idea/*
+*.eml
+*.iml
+*/*.iml
+.idea
+
+### Python venv
+include/
+lib/
+share/
+lib64
+pyvenv.cfg
+
+
+### Maven
+log/
+target/
+
+### Java
+*.class
+*.jar
+*.war
+*.ear
+
+### Eclipse
+.classpath
+.project
+.settings/
+*.pydevproject
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+.metadata
+.idea/inspectionProfiles/
